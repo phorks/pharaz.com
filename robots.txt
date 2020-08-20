@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://pharaz.com/sitemap.xml
+Host: https://pharaz.com

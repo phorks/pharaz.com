@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Pharaz Fadaei</title>
+        <link>https://pharaz.com</link>
+        <description>Personal Blog</description>
+        <lastBuildDate>Thu, 20 Aug 2020 21:18:54 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>GatsbyJS</generator>
+        <copyright>All rights reserved 2020, Pharaz Fadaei</copyright>
+        <item>
+            <title><![CDATA[Welcome!]]></title>
+            <link>https://pharaz.com/2020/08/20/welcome/</link>
+            <guid>https://pharaz.com/2020/08/20/welcome/</guid>
+            <pubDate>Thu, 20 Aug 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Creating my first blog on <a href="https://fa.wikipedia.org/wiki/%D8%A8%D9%84%D8%A7%DA%AF%D9%81%D8%A7">Blogfa</a> when I was 10, has been one of the geekiest things I’ve ever done in my life. Being able to finally have an address of my own on the web was like a dream come true for me. Since then, I have created a number of blogs, none of which have been successful. Despite my inner desire to write, I have never been a successful blogger, actually, I have never been a blogger at all! All I did was sporadically write some random blog posts and then lose all the interest and motivation!</p><p>This time it’s going to be different, I have a new set of motivations and reasons to blog! I have realized that to be a successful blogger, it takes desire, consistency, and planning.</p><p>I intend to share my experiences, opinions, and adventures here. You may find posts mostly about computers, programming, games, and puzzles.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

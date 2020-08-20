@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pharaz Fadaei",
+    "home_page_url": "https://pharaz.com",
+    "feed_url": "https://pharaz.com/feed.json",
+    "description": "Personal Blog",
+    "author": {
+        "name": "Pharaz Fadaei"
+    },
+    "items": [
+        {
+            "id": "https://pharaz.com/2020/08/20/welcome/",
+            "content_html": "<p>Creating my first blog on <a href=\"https://fa.wikipedia.org/wiki/%D8%A8%D9%84%D8%A7%DA%AF%D9%81%D8%A7\">Blogfa</a> when I was 10, has been one of the geekiest things I’ve ever done in my life. Being able to finally have an address of my own on the web was like a dream come true for me. Since then, I have created a number of blogs, none of which have been successful. Despite my inner desire to write, I have never been a successful blogger, actually, I have never been a blogger at all! All I did was sporadically write some random blog posts and then lose all the interest and motivation!</p><p>This time it’s going to be different, I have a new set of motivations and reasons to blog! I have realized that to be a successful blogger, it takes desire, consistency, and planning.</p><p>I intend to share my experiences, opinions, and adventures here. You may find posts mostly about computers, programming, games, and puzzles.</p>",
+            "url": "https://pharaz.com/2020/08/20/welcome/",
+            "title": "Welcome!",
+            "date_modified": "2020-08-20T00:00:00.000Z"
+        }
+    ]
+}
